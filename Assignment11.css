@@ -1,0 +1,515 @@
+body{
+    padding: 15px;
+}
+header{
+    width: 100%;
+    height: 700px;
+    background-color: whitesmoke;
+    position: relative;
+    text-align: right;
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-right: 35px;
+    /**/padding-left: 40px;
+    padding-bottom: 0px;
+    border-bottom-right-radius: 100px;
+}
+.snapp{
+    margin-bottom: -15px;
+    font-size: 50px;
+    color: deeppink;
+}
+/*1111111111111111111111111111*/
+#titr{
+    background-color: whitesmoke;
+    width: 250px;
+    height: 10%;
+    box-sizing: border-box;
+    display: flex;
+    margin-top: -70px;
+}
+.ali{
+    width: 100%;
+    height: 70%;
+    background-color: whitesmoke;
+    margin: 10px;
+    text-align: center;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.hello{
+    color: white;
+    text-decoration: none;
+    direction: rtl;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: deeppink;
+    font-size: 17px;
+}
+#buttom{
+    border-radius: 100px;
+    background-color: white;
+    color: dimgrey;
+    padding: 15 90 15 90;
+    margin-right: 10px;
+    text-align: right;
+    box-sizing: border-box;
+    padding-top: 10px;
+    padding-right: 10px;
+    box-shadow: 0px 0px 10px -4px dimgray;
+}
+#dayere{
+    background-color: deeppink;
+    color: white;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    position:absolute;
+    margin-left: -240px;
+    margin-top: -6px;
+}
+#img{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    margin-left: -1070px;
+    margin-top: -218px;
+    box-sizing: border-box;
+}
+#row{
+    width: 90%;
+    height: 130px;
+    background-color: white;
+    border-radius: 20px;
+    margin: -20vh;
+    margin-left: 5px;
+    position: absolute;
+    display: flex;
+    padding: 7px;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    margin-top: 80px;
+    box-shadow: 5px 5px 10px 3px gray;
+}
+.col{
+    width: 10%;
+    height: 100%;
+    background-color: white;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 10px;
+}
+.mj{
+    text-decoration: none;
+    text-align: center;
+    color: dimgrey;
+    flex-wrap: wrap;
+}
+.vili{
+    width: 50px;
+}
+/*22222222222222222222222222222*/
+#daste{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    position: relative;
+}
+.anva{
+    width: 25%;
+    height: 150px;
+    box-sizing: border-box;
+    padding: 25 15 25 15;
+}
+.khob{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    box-shadow: 2px 2px 2px gray;
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+}
+.kish{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+.mat{
+    text-decoration: none;
+    padding: 5 25 5 17;
+    background-color: white;
+    color: black;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 10px;
+    box-sizing: border-box;
+    position: absolute;
+    margin-left: -85px;
+    margin-top: 65px;
+}
+#makhfi{
+    margin-left: -73px;
+}
+#mamad{
+    margin-left: -68px;
+}
+/*333333333333333*/
+#mobail{
+    width: 100%;
+    height: 600px;
+    background-color:gainsboro;
+    margin-top: 150px;
+    text-align: right;
+    box-sizing: border-box;
+    border-bottom-right-radius: 100px;
+    position: relative;
+    padding-top: 50px;
+    padding-right: 100px;
+}
+#wid{
+    color:gray;
+    direction: rtl;
+    width: 390px;
+    margin-left: 600px;
+}
+#hey{
+    width: 45%;
+    height: 700px;
+    margin-right: 500px;
+    margin-top: -380px;
+}
+
+
+#khooob{
+    background-color: whitesmoke;
+    width: 300px;
+    height: 35px;
+    text-align: right;
+    margin-left: 670px;
+    border-radius: 5px;
+}
+#inpu{
+    width: 100%;
+    height: 100%;
+    text-align: right;
+    border-style: none;
+    box-shadow: 3px 3px 2px 2px gray;
+    border-radius: 5px;
+}
+#dididi{
+    height: 85%;
+    width:30%;
+    margin-top: -33px;
+    margin-left: 10px;
+    background-color: deeppink;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    box-sizing: border-box;
+    position: relative;
+    box-shadow: inset 2px 2px 3px 1px darkmagenta;
+}
+
+#khoda{
+    width: 300px;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    position: relative;
+    margin-left: 670px;
+    margin-top: 20px;
+}
+.fereshte{
+    width: 50%;
+    height: 50%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.bande{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    border-radius: 5px;
+    text-align: right;
+}
+.ostad{
+    padding: 10px;
+}
+.chi{
+    width: 100%;
+    height: 100%;
+}
+
+#kasb{
+    width: 100%;
+    height: 300px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    margin-top: 150px;
+    padding: 20 40 20 40;
+    box-sizing: border-box;
+    text-align: right;
+}
+#sabt{
+    text-decoration: none;
+    color: white;
+    background-color: deeppink;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px darkmagenta;
+}
+#baybay{
+    position:absolute;
+    margin-left: -1000px;
+    margin-top: -270px;
+}
+#a{
+    width: 100%;
+    height: 440px;/*ssssssssssssssssssss*/
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+.b{
+    width: 16.6%;
+    height: 50%;
+    background-color: white;
+    text-align: right;
+    box-sizing: border-box;
+}
+.c{
+    list-style-type: none;
+    text-align: right;
+}
+.c li{
+    text-align: right;
+}
+.c li a{
+    text-decoration: none;
+    color: gray;
+    font-size: 12px;
+}
+
+
+#masin{
+    width: 100%;
+    height: 400px;
+    background-color: whitesmoke;
+    margin-top: 30px;
+    text-align: right;
+    padding: 30px;
+    box-sizing: border-box;
+    position: relative;
+}
+#nike{
+    margin-right: 100px;
+}
+#adi{
+    width: 300px;
+    height: 80px;
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    display: flex;
+    margin-left: 700px;
+}
+.das{
+    height: 100%;
+    width: 20%;
+    box-sizing: border-box;
+    padding: 15 5 15 5;
+}
+.nice{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    box-shadow: 0px 0px 10px -1px gray;
+    border-radius: 50%;
+}
+#sadegh{
+    width: 300px;
+    height: 150px;
+    margin-top: -125px;
+    margin-left: 200px;
+    background-color: whitesmoke;
+    display: flex;
+    padding: 20px;
+}
+.bigrez{
+    height: 100%;
+    width: 100%;
+}
+.stylee{
+    list-style-type: none;
+    text-align: right;
+}
+.stylee li{
+    margin: 7px;
+}
+.stylee li a{
+    text-decoration: none;
+    color: black;
+}
+#uuu{
+    margin-right: 900px;
+    margin-top: -200px;
+    width: 80px;
+}
+#ooo{
+    margin-right: 820px;
+    margin-top: -200px;
+    width: 80px;
+}
+.logoo{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+#darkmode{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    border-radius: 15px;
+    position: absolute;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.butt{
+    width: 50%;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.butt:hover{
+    background-color: deeppink;
+}
+#mozahem{
+    width: 109px;
+    height: 50px;
+    background-color: whitesmoke;
+}
+#morahem{
+    width: 70px;
+    height: 20px;
+    background-color: white;
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 5px;
+}
+@media only screen and (max-width: 1000px) {
+    .col{
+        width: 10%;
+    }
+    #titr{
+        display: none;
+    }
+    .anva{
+        width: 33%;
+    }
+    #mobail{
+        margin-top: 230px;
+    }
+    #wid{
+        margin-left: 400px;
+        margin-top: 50px;
+    }
+    #khooob{
+        margin-left: 440px;
+        margin-top: 50px;
+    }
+    #khoda{
+        margin-left: 440px;
+        margin-top: 50px;
+    }
+    #hey{
+        display: none;
+    }
+    #icy{
+        display: none;
+    }
+    #baybay{
+        display: none;
+    }
+    .b{
+        width: 25%;
+    }
+    #masin{
+        margin-top: 300px;
+    }
+    #adi{
+        margin-left: 400px;
+    }
+    #sadegh{
+        margin-left: 10px;
+    }
+    #uuu{
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    #ooo{
+        margin-top: -80px;
+        margin-left: 90px;
+    }
+}
+/*-----------------------------------------------*/
+@media only screen and (max-width: 500px) {
+    .col{
+        width: 20%;
+        height: 40%;
+    }
+    #titr{
+        display: none;
+    }
+    #row{
+        margin-left: -15px;
+    }
+    #row h5{
+        display: none;
+    }
+    .anva{
+        width: 50%;
+    }
+    #img{
+        margin-left: -400px;
+        width: 350px;
+        height: 400px;
+        margin-top: -90px;
+        opacity: 0.5;
+    }
+    #wid{
+        margin-left: 30px;
+    }
+    #khooob{
+        margin-left: 65px;
+    }
+    #khoda{
+        margin-left: 65px;
+    }
+    .b{
+        width: 32%;
+    }
+    #masin{
+        margin-top: 450px;
+        height: 550px;
+    }
+    #adi{
+        margin-left: 25px;
+    }
+    #sadegh{
+        margin-left: 25px;
+        margin-top: 10px;
+    }
+}
