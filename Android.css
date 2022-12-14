@@ -56,9 +56,11 @@
 }
 #dast1:hover{
     transform: rotate(90deg);
+    transform-origin: 40% 20%;
 }
 #dast2:hover{
     transform: rotate(-90deg);
+    transform-origin: 40% 20%;
 }
 #sar{
     width: 150px;
